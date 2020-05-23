@@ -7,10 +7,6 @@ This is repo for weekly reading group meetings for the Egyptian NLP community. T
 
 Please feel free to give any feedback on current organisation as a new issue to this repository - it can be adapted to our needs.   
 
-
-## :watch: Time and Location 
-####  xx-xxpm in [physical_location]
-
 ## TLDR;
    - :heavy_plus_sign: :+1: [Add papers](https://github.com/eg-nlp-community/nlp-reading-group/issues/1) and vote on papers you would like to read/discuss
    - :full_moon_with_face: :new_moon_with_face: Everybody is free to attend or not attend; 
