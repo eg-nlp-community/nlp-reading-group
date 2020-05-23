@@ -1,4 +1,4 @@
-# Cairo Natural Language Processing Reading group :books:
+# Egypt Natural Language Processing Reading group :books:
 Forked from [awesome-reading-group](https://github.com/hadyelsahar/awesome-reading-group)
 
 This is repo for weekly reading group meetings for the Egyptian NLP community. This reading group is organized as short 45 minute meetings once a week. No one is expected prepare slides and/or read the paper in depth. This makes it agile and highly sustainable. 
