@@ -7,6 +7,10 @@ This is repo for weekly reading group meetings for the Egyptian NLP community. T
 
 Please feel free to give any feedback on current organisation as a new issue to this repository - it can be adapted to our needs.   
 
+## Newcomers and participation
+- Newcomers are always welcome, if you would like to join the community please dop an email to `hadyelsahar.eg@gmail.com`. 
+- Have a work that you would like to present and have feedback on, cool! We also organise invited talks and Q&A session.   
+
 ## TLDR;
    - :heavy_plus_sign: :+1: [Add papers](https://github.com/eg-nlp-community/nlp-reading-group/issues/1) and vote on papers you would like to read/discuss
    - :full_moon_with_face: :new_moon_with_face: Everybody is free to attend or not attend; 
