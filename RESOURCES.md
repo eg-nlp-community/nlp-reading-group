@@ -1,4 +1,4 @@
-Forked from [NLP-Papers](https://github.com/llhthinker/NLP-Papers)
+Inspired from [NLP-Papers](https://github.com/llhthinker/NLP-Papers)
 # NLP-Resources
 - [Distributed Word Representations](#distributed-word-representations)
 - [Distributed Sentence Representations](#distributed-sentence-representations)
@@ -13,6 +13,7 @@ Forked from [NLP-Papers](https://github.com/llhthinker/NLP-Papers)
 - [Materials/Toolkits](#materials)
 
 ## Papers and Articles
+
 ### Distributed Word Representations
 
 ### Distributed Sentence Representations
@@ -20,7 +21,7 @@ Forked from [NLP-Papers](https://github.com/llhthinker/NLP-Papers)
 ### Entity Recognition
 
 ### Language Model
-
+  - **[:eyeglasses: analysis]** [BERT Rediscovers the Classical NLP Pipeline](https://github.com/eg-nlp-community/nlp-reading-group/issues/2)
 ### Machine Translation
 
 ### Question Answering
