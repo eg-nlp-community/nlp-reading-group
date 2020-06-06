@@ -1,5 +1,5 @@
 Inspired from [NLP-Papers](https://github.com/llhthinker/NLP-Papers)
-# NLP-Resources
+# Index
 - [Distributed Word Representations](#distributed-word-representations)
 - [Distributed Sentence Representations](#distributed-sentence-representations)
 - [Entity Recognition (Sequence Tagging)](#entity-recognition)
@@ -11,8 +11,9 @@ Inspired from [NLP-Papers](https://github.com/llhthinker/NLP-Papers)
 - [Sentences Matching (Natural Language Inference/Textual Entailment)](#sentences-matching)
 - [Text Classification (Sentiment Classification)](#text-classification)
 - [Materials/Toolkits](#materials)
+- [Regularization Techniques](#regularization)
 
-## Papers and Articles
+## Resources
 
 ### Distributed Word Representations
 
@@ -36,3 +37,5 @@ Inspired from [NLP-Papers](https://github.com/llhthinker/NLP-Papers)
 
 ### Materials
 
+### Regularization
+  - **[:newspaper: educational]** [Analysis of Dropout](https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/)
